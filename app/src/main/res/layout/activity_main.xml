@@ -1,9 +1,4 @@
-git init
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/jrevanthreddy/cardviewexample2.git
-    git push -u origin main<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
